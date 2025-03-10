@@ -18,6 +18,13 @@
 
 本项目旨在将 QQTPVE 从桌面端移植到网页端，让更多玩家能够便捷地重温这款游戏的乐趣。
 
+
+### 如何游玩
+1. 访问[本项目部署的网页链接](http://ikwbb.github.io/qqtpve)。
+2. 在支持 WebAssembly 的现代浏览器中直接打开（推荐 Chrome、Firefox 等）。
+3. 开始游戏，重温 QQ堂 的经典体验！
+
+
 ## 移植说明
 
 ### 技术实现
@@ -26,10 +33,6 @@
 - **游戏核心**：基于 [detopoi/QQTPVE: By YongHeng ver20230418](https://github.com/detopoi/QQTPVE) 的版本。
 - **资源文件**：使用 [atxxfs](https://github.com/atxxfs) 提供的 Resources。
 
-### 如何游玩
-1. 访问[本项目部署的网页链接](http://ikwbb.github.io/qqtpve)。
-2. 在支持 WebAssembly 的现代浏览器中直接打开（推荐 Chrome、Firefox 等）。
-3. 开始游戏，重温 QQ堂 的经典体验！
 
 ## 目前存在的问题
 
