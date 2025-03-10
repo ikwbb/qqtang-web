@@ -4,7 +4,6 @@
      <img src="demo/demo.gif" alt="Demo of Web QQTang">
 </div><br>
 
-**导航栏**  
 [简体中文](#) | [繁体中文](README_HK.md)
 
 **QQTPVE** 是一个基于经典游戏 **QQ堂** 的高度复刻版本，原作者为 [atxxfs](https://github.com/atxxfs/QQTPVE)。本项目将 QQTPVE 移植到网页端，通过 WebAssembly (WASM) 技术，让玩家能够直接在浏览器中体验这款经典游戏。
