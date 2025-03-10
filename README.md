@@ -1,7 +1,11 @@
 # QQT堂网页版 QQTPVE - WebAssembly 移植版
 
 <div align="center">
-     <img src="demo/demo.gif" alt="Demo of Web QQTang">
+     
+<img src="demo/demo.gif" alt="Demo of Web QQTang">
+
+[在线试玩](http://ikwbb.github.io/qqtpve)
+
 </div><br>
 
 [简体中文](#) | [繁体中文](README_HK.md)
