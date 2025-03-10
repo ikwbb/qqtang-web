@@ -1,7 +1,10 @@
 # QQT堂網頁版 QQTPVE - WebAssembly 移植版
 
 <div align="center">
-     <img src="demo/demo.gif" alt="Demo of Web QQTang">
+<img src="demo/demo.gif" alt="Demo of Web QQTang">
+
+[在线试玩](http://ikwbb.github.io/qqtpve)
+     
 </div><br>
 
 **QQTPVE** 是一個基於經典遊戲 **QQ堂** 的高度復刻版本，原作者為 [atxxfs](https://github.com/atxxfs/QQTPVE)。本項目將 QQTPVE 移植到網頁端，通過 WebAssembly (WASM) 技術，讓玩家能夠直接在瀏覽器中體驗這款經典遊戲。
