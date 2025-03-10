@@ -1,6 +1,7 @@
+<div align="center">
+
 # QQT堂网页版 QQTPVE - WebAssembly 移植版
 
-<div align="center">
      
 <img src="demo/demo.gif" alt="Demo of Web QQTang">
 
