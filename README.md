@@ -23,7 +23,7 @@
 - **资源文件**：使用 [atxxfs](https://github.com/atxxfs) 提供的 Resources。
 
 ### 如何游玩
-1. 访问![本项目部署的网页链接](http://ikwbb.github.io/qqtpve)。
+1. 访问[本项目部署的网页链接](http://ikwbb.github.io/qqtpve)。
 2. 在支持 WebAssembly 的现代浏览器中直接打开（推荐 Chrome、Firefox 等）。
 3. 开始游戏，重温 QQ堂 的经典体验！
 
